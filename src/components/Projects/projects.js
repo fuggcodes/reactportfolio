@@ -12,34 +12,34 @@ const data = [
   {
     id: 2,
     image:
-      "https://user-images.githubusercontent.com/90392805/159102317-5cd127e1-0010-4102-afb2-142bb7b88541.png",
+      "https://drive.google.com/file/d/1iS4jDjPKTOTBO4LBERtEsugGyYb2usUD/view?usp=sharing",
     alt: "Budget Tracker",
     name: "Budget Tracker",
     text: "With this application you can track your spendings.",
-    appUrl: "https://whereyomoneyat.herokuapp.com/",
-    githubUrl: "https://github.com/Abduler21/Budget-Tracker",
+    appUrl: "https://budgetttrack3r.herokuapp.com/",
+    githubUrl: "https://github.com/fuggcodes/budget-tracker",
   },
   {
     id: 3,
     image:
-      "https://user-images.githubusercontent.com/90392805/159102432-d752feab-1dc6-429e-b715-b6b5f3e60086.png",
+      "https://raw.githubusercontent.com/fuggcodes/WorkDayScheduler-/main/startpage.png",
     alt: "Workday Scheduler",
     name: "Workday Scheduler",
     text: "Workday-Scheduler is a simple calendar application that allows the user to save events for each hour of the day.",
     appUrl:
-      "https://abduler21.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/",
+      "https://fuggcodes.github.io/WorkDayScheduler-/",
     githubUrl:
-      "https://github.com/Abduler21/Third-Party-APIs-Challenge-Work-Day-Scheduler",
+      "https://github.com/fuggcodes/WorkDayScheduler-/",
   },
   {
     id: 4,
     image:
-      "https://user-images.githubusercontent.com/90392805/159102389-88306d78-cf1e-4301-988d-5bd16d911bf7.png",
-    alt: "Weather-App",
-    name: "Weather-App",
-    text: "This is a weather app that uses openweather.org's API to display the current weather of a city and shows the five day forecast.",
-    appUrl: " https://abduler21.github.io/Weather-Page/",
-    githubUrl: "https://github.com/Abduler21/Weather-Page",
+      "https://drive.google.com/file/d/17Mkq6f_zSL6WCsMOqiCWq-BbSJqdCSfg/view?usp=sharing",
+    alt: "Book Search Engine",
+    name: "Book Search Engine",
+    text: "This is an app that is able to search and list books of any sorts by looking it up.",
+    appUrl: " https://b00ksearchengine.herokuapp.com/",
+    githubUrl: "https://github.com/fuggcodes/booksearchengine",
   },
 ];
 

@@ -5,7 +5,7 @@ export function NavBar() {
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
       <a className="navbar-brand" href="#about">
-        Abdulmelik Ersoy
+        David Binyatov
       </a>
       <button
         className="navbar-toggler"

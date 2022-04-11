@@ -17,7 +17,7 @@ function Contact() {
               <form
                 id="contact-form"
                 method="POST"
-                action="https://formspree.io/f/xknyzper"
+                action="https://formspree.io/f/xlezpgjq"
               >
                 <div className="controls">
                   <Row className="text-center">

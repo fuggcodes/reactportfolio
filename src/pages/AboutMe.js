@@ -16,7 +16,7 @@ function AboutMe() {
                 src={Picture}
               />
               <div className="portrait-title">
-                <h2>Abdulmelik Ersoy</h2>
+                <h2>David Binyatov</h2>
                 <h3>Full Stack Web Developer</h3>
                 <h3>
                   <a
