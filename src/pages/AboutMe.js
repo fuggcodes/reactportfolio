@@ -75,7 +75,7 @@ function AboutMe() {
               <p>
                 I am a young programmer, eager to always learn new concepts and
                 ideas that will further my programming skills and take my
-                projects to the next level. I also love managing projects.
+                projects to the next level. I also love managing projects and giving people direction to accomplish the goal.
               </p>
             </div>
             <Row>
@@ -87,7 +87,7 @@ function AboutMe() {
                       <i class="fas fa-graduation-cap"></i>
                       <div className="descriptions">
                         <p className="course">
-                          Garfield High School, Class of 2017
+                          East Brunswick High School, Class of 2014
                         </p>
                       </div>
                     </li>

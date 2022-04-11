@@ -21,7 +21,7 @@ function Portfolio() {
                         <a
                           href={project.appUrl}
                           target="_blank"
-                          style={{ textDecoration: "none" }}
+                          style={{ textDecoration: "none" }} rel="noreferrer"
                         >
                           {project.name}
                         </a>
@@ -33,7 +33,7 @@ function Portfolio() {
                         <a
                           className="btn btn-outline-primary my-1 mr-1 btn-sm"
                           href={project.githubUrl}
-                          target="_blank"
+                          target="_blank" rel="noreferrer"
                         >
                           <i class="fab fa-github mr-1"></i>
                           Code
@@ -41,7 +41,7 @@ function Portfolio() {
                       </div>
                     </div>
                     <div className="ml-3 mr-3">
-                      <a href={project.appUrl} target="_blank"></a>
+                      <a href={project.appUrl} target="_blank" rel="noreferrer"></a>
                     </div>
                   </div>
                 </div>
