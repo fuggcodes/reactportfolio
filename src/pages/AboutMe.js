@@ -22,7 +22,7 @@ function AboutMe() {
                   <a
                     href="https://www.rutgers.edu/"
                     target="_blank"
-                    rel="noopener"
+                    rel="noopener noreferrer"
                     style={{ textDecoration: "none" }}
                   >
                     <span>Rutgers University</span>
@@ -36,7 +36,7 @@ function AboutMe() {
               >
                 <li className="list-inline-item icon">
                   <a
-                    href="mailto:01abdulmelik@gmail.com"
+                    href="mailto:davidbphotography101@gmail.com"
                     rel="noreferrer"
                     target="_blank"
                   >
@@ -45,7 +45,7 @@ function AboutMe() {
                 </li>
                 <li className="list-inline-item icon">
                   <a
-                    href="https://github.com/Abduler21"
+                    href="https://github.com/fuggcodes"
                     rel="noreferrer"
                     target="_blank"
                   >
@@ -54,7 +54,7 @@ function AboutMe() {
                 </li>
                 <li className="list-inline-item icon">
                   <a
-                    href="https://www.linkedin.com/in/abdulmelik-ersoy-a28194220/"
+                    href="https://www.linkedin.com/in/david-binyatov-3a7b35236"
                     rel="noreferrer"
                     target="_blank"
                   >
@@ -68,15 +68,14 @@ function AboutMe() {
             <div id="biography">
               <h1 id="header-title">Biography</h1>
               <p>
-                My name is Abdulmelik Ersoy and I am currently enrolled in
+                My name is David Binyatov and I am currently enrolled in
                 Rutgers University Full Stack Web Development Bootcamp where i
                 will be graduating April of 2022
               </p>
               <p>
                 I am a young programmer, eager to always learn new concepts and
                 ideas that will further my programming skills and take my
-                projects to the next level. I love to make coding projects that
-                are not only fun, but also challenging.
+                projects to the next level. I also love managing projects.
               </p>
             </div>
             <Row>

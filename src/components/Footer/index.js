@@ -7,7 +7,7 @@ export function Footer() {
     <footer className="footer">
       <Row>
         <Col size={12} lg={12} md={12} sm={12}>
-          <p>&copy; Abdulmelik Ersoy</p>
+          <p>&copy; David Binyatov</p>
         </Col>
       </Row>
       <Row>
