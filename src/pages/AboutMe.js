@@ -69,13 +69,13 @@ function AboutMe() {
               <h1 id="header-title">Biography</h1>
               <p>
                 My name is David Binyatov and I am currently enrolled in
-                Rutgers University Full Stack Web Development Bootcamp where i
-                will be graduating April of 2022
+                Rutgers University Full Stack Web Development Bootcamp where I
+                will be graduating, April of 2022.
               </p>
               <p>
-                I am a young programmer, eager to always learn new concepts and
-                ideas that will further my programming skills and take my
-                projects to the next level. I also love managing projects and giving people direction to accomplish the goal.
+                I am a noble programmer that is not only willing to learn the ins
+                 and outs of programming but also become a great project maanager 
+                 that will lead and guide the greatest programmers. 
               </p>
             </div>
             <Row>
