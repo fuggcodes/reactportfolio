@@ -41,7 +41,7 @@ function Portfolio() {
                       </div>
                     </div>
                     <div className="ml-3 mr-3">
-                      <a href={project.appUrl} target="_blank" rel="noreferrer"></a>
+                      <a href={project.appUrl} target="_blank"></a>
                     </div>
                   </div>
                 </div>
