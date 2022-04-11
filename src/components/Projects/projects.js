@@ -2,12 +2,12 @@ const data = [
   {
     id: 1,
     image:
-      "https://user-images.githubusercontent.com/90392805/159102244-64cbc8c4-7fc3-47d7-9acd-68c68a48c020.png",
+      "https://drive.google.com/file/d/1nL4tyPatY8uskTcr-lWKP4ycZ8vUI2_s/view?usp=sharing",
     alt: "Password Generator",
     name: "Password Generator",
     text: "An application that generates a password for you.",
-    appUrl: "https://abduler21.github.io/Password-Generator/",
-    githubUrl: "https://github.com/Abduler21/Password-Generator",
+    appUrl: "https://fuggcodes.github.io/passwordGenerator/",
+    githubUrl: "https://github.com/fuggcodes/passwordGenerator",
   },
   {
     id: 2,
