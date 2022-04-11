@@ -87,7 +87,7 @@ function AboutMe() {
                       <i class="fas fa-graduation-cap"></i>
                       <div className="descriptions">
                         <p className="course">
-                          East Brunswick High School, Class of 2014
+                          Rutgers University - New Brunswick: Mason School of Arts and Sciences, Class of 2018.
                         </p>
                       </div>
                     </li>
