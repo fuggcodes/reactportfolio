@@ -4,7 +4,7 @@ This is my programming portfolio I made with react.js and html. Feel through to 
 
 ## screenshots
 
-<a href="https://drive.google.com/file/d/17j0DGFE8dqaC2HqHGaG7uMmbu764b21V/view?usp=sharing">
+https://drive.google.com/file/d/17j0DGFE8dqaC2HqHGaG7uMmbu764b21V/view?usp=sharing
 
 ## link to portfolio
 
