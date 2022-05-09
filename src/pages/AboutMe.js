@@ -74,8 +74,8 @@ function AboutMe() {
               </p>
               <p>
                 I am a noble programmer that is not only willing to learn the ins
-                 and outs of programming but also become a great project manager 
-                 that will lead and guide the greatest programmers. 
+                 and outs of programming but will also become a professional project manager 
+                 that will lead and guide the future of great programmers. 
               </p>
             </div>
             <Row>
